@@ -2,5 +2,6 @@
 
 from backend import function
 
-#Get user name and prints it.
-function.print_user()
+
+#function.print_user()
+function.hola()
